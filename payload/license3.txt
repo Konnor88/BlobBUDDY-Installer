@@ -1,0 +1,3 @@
+By using BlobBUDDY, you accept the following license agreements:
+
+By using this software, you acknowledge its a joke and accept both the Microsoft Agent license agreement. If you are using the .MSH file feature, you also accept the license agreement of MASH, a non-TMAFE product.

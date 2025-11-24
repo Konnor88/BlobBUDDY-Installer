@@ -1,0 +1,82 @@
+[MASH Script]
+Version=7.5
+
+[Characters]
+Blob=blob.acs
+
+[LanguageIDs]
+Blob=&H409
+
+[Script]
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=Spd=230180\I've\Pit=110\\Spd=230\ got\Pit=104\\Spd=230\ a\Pit=110\\Spd=230\ lit\Pit=104\\Spd=230\tle\Pit=110\\Spd=230\bay\Pit=104\\Spd=230\by,""=""I've got a little baby,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\but\Pit=131\\Spd=230\ she's\Pit=147\\Spd=138\ out\Pit=110\\Spd=138\ of\Pit=110\\Spd=92\ sight.""=""but she's out of sight.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=294\\Spd=230\I\Pit=294\\Spd=230\ talk\Pit=294\\Spd=230\ to\Pit=294\\Spd=230\ her\Pit=294\\Spd=230\ a\Pit=294\\Spd=230\cross\Pit=294\\Spd=230\ the\Pit=294\\Spd=230\ te\Pit=294\\Spd=230\le\Pit=117\\Spd=52\phone.""=""I talk to her across the tell-a-phone.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\I've\Pit=117\\Spd=230\ nev\Pit=110\\Spd=230\er\Pit=117\\Spd=230\ seen\Pit=110\\Spd=230\ my\Pit=117\\Spd=230\ ho\Pit=110\\Spd=230\ney,""=""I've never seen my honey,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=117\\Spd=230\but\Pit=131\\Spd=230\ she's\Pit=165\\Spd=138\ mine,\Pit=117\\Spd=138\ all\Pit=117\\Spd=92\ right;""=""but she's mine, all right;""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\so\Pit=98\\Spd=230\ take\Pit=92\\Spd=230\ my\Pit=98\\Spd=230\ tip,""=""so take my tip,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=92\\Spd=230\an'\Pit=98\\Spd=230\ leave\Pit=92\\Spd=230\ this\Pit=98\\Spd=230\ girl\Pit=104\\Spd=230\ a\Pit=110\\Spd=52\lone.""=""an' leave this girl alone.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\Ev'\Pit=104\\Spd=230\ry\Pit=110\\Spd=230\ sin\Pit=104\\Spd=230\gle\Pit=110\\Spd=230\ morn\Pit=104\\Spd=230\ing,""=""Ev'ry single morning,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\you\Pit=131\\Spd=230\ will\Pit=147\\Spd=138\ hear\Pit=110\\Spd=138\ me\Pit=110\\Spd=138\ yell:""=""you will hear me yell:""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\'Hey\Pit=110\\Spd=230\ Cen\Pit=110\\Spd=230\tral!\Pit=104\\Spd=230\ fix\Pit=110\\Spd=230\ me\Pit=147\\Spd=230\ up\Pit=147\\Spd=230\ a\Pit=147\\Spd=230\long\Pit=147\\Spd=230\ the\Pit=147\\Spd=55\ line.'""=""'Hey Central! fix me up along the line.'""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=230\He\Pit=147\\Spd=230\ con\Pit=147\\Spd=230\nects\Pit=147\\Spd=230\ me\Pit=139\\Spd=230\ with\Pit=147\\Spd=230\ ma\Pit=165\\Spd=230\ ho\Pit=165\\Spd=230\ney,""=""He connects me with ma honey,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=230\then\Pit=147\\Spd=230\ I\Pit=131\\Spd=138\ rings\Pit=110\\Spd=138\ the\Pit=117\\Spd=138\ bell,""=""then I rings the bell,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\and\Pit=98\\Spd=230\ this\Pit=110\\Spd=230\ is\Pit=98\\Spd=230\ what\Pit=110\\Spd=230\ I\Pit=98\\Spd=230\ say\Pit=110\\Spd=230\ to\Pit=98\\Spd=230\bay\Pit=147\\Spd=230\bee\Pit=131\\Spd=52\ mine,""=""and this is what I say to baby mine,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\Hel\Pit=294\\Spd=138\lo!\Pit=262\\Spd=230\ Ma\Pit=294\\Spd=138\bay\Pit=262\\Spd=138\by,\Pit=220\\Spd=230\ Hel\Pit=233\\Spd=138\lo!\Pit=220\\Spd=230\ Ma\Pit=233\\Spd=138\ ho\Pit=220\\Spd=138\ney""=""Hello! Ma Baby, Hello! Ma honey""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\Hel\Pit=220\\Spd=138\lo!\Pit=196\\Spd=230\ ma\Pit=220\\Spd=138\ rag\Pit=196\\Spd=138\time\Pit=147\\Spd=230\gaal""=""Hello! ma ragtime gal.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Send\Pit=196\\Spd=138\ me\Pit=185\\Spd=230\ a\Pit=220\\Spd=138\ kiss\Pit=196\\Spd=138\ by\Pit=131\\Spd=230\ wire,""=""Send me a kiss by wire,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=175\\Spd=230\bay\Pit=220\\Spd=138\bee\Pit=262\\Spd=230\ my\Pit=330\\Spd=138\ heart's\Pit=294\\Spd=138\ on\Pit=262\\Spd=69\ fire!""=""Baby my heart's on fire!""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\If\Pit=294\\Spd=138\ you\Pit=262\\Spd=230\ re\Pit=294\\Spd=138\fuse\Pit=262\\Spd=138\ me,""=""If you refuse me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Hun\Pit=233\\Spd=138\ney,\Pit=220\\Spd=230\ you'll\Pit=233\\Spd=138\ lose\Pit=220\\Spd=138\ me,""=""Honey, you'll lose me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\then\Pit=220\\Spd=138\ you'll\Pit=196\\Spd=230\ be\Pit=220\\Spd=138\ left\Pit=196\\Spd=138\ a\Pit=147\\Spd=230\lone;""=""then you'll be left alone;""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=138\Oh,\Pit=165\\Spd=138\bay\Pit=175\\Spd=138\by,\Pit=220\\Spd=230\ Te\Pit=220\\Spd=230\le\Pit=196\\Spd=138\phone\Pit=185\\Spd=138\ and\Pit=220\\Spd=138\ tell\Pit=196\\Spd=138\ me""=""Oh, baby, tell-a-phone and tell me""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=138\I've\Pit=196\\Spd=138\ your\Pit=175\\Spd=138\ own""=""I've your own""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\Hel\Pit=294\\Spd=92\lo!\Pit=262\\Spd=230\ Hel\Pit=294\\Spd=92\lo!\Pit=262\\Spd=230\ Hel\Pit=294\\Spd=138\lo!\Pit=262\\Spd=138\ There.""=""Hello! Hello! Hello! There.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\Hel\Pit=294\\Spd=138\lo!\Pit=262\\Spd=230\ Ma\Pit=294\\Spd=138\bay\Pit=262\\Spd=138\by,\Pit=220\\Spd=230\ Hel\Pit=233\\Spd=138\lo!\Pit=220\\Spd=230\ Ma\Pit=233\\Spd=138\ ho\Pit=220\\Spd=138\ney""=""Hello! Ma Baby, Hello! Ma honey""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\Hel\Pit=220\\Spd=138\lo!\Pit=196\\Spd=230\ ma\Pit=220\\Spd=138\ rag\Pit=196\\Spd=138\time\Pit=147\\Spd=230\gaal""=""Hello! ma ragtime gal.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Send\Pit=196\\Spd=138\ me\Pit=185\\Spd=230\ a\Pit=220\\Spd=138\ kiss\Pit=196\\Spd=138\ by\Pit=131\\Spd=230\ wire,""=""Send me a kiss by wire,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=175\\Spd=230\bay\Pit=220\\Spd=138\bee\Pit=262\\Spd=230\ my\Pit=330\\Spd=138\ heart's\Pit=294\\Spd=138\ on\Pit=262\\Spd=69\ fire!""=""Baby my heart's on fire!""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\If\Pit=294\\Spd=138\ you\Pit=262\\Spd=230\ re\Pit=294\\Spd=138\fuse\Pit=262\\Spd=138\ me,""=""If you refuse me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Ho\Pit=233\\Spd=138\ney,\Pit=220\\Spd=230\ you'll\Pit=233\\Spd=138\ lose\Pit=220\\Spd=138\ me,""=""Honey, you'll lose me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\then\Pit=220\\Spd=138\ you'll\Pit=196\\Spd=230\ be\Pit=220\\Spd=138\ left\Pit=196\\Spd=138\ a\Pit=147\\Spd=230\lone;""=""then you'll be left alone;""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=138\Oh,\Pit=165\\Spd=138\bay\Pit=175\\Spd=138\by,\Pit=220\\Spd=230\ Te\Pit=220\\Spd=230\le\Pit=196\\Spd=138\phone\Pit=185\\Spd=138\ and\Pit=220\\Spd=138\ tell\Pit=196\\Spd=138\ me""=""Oh, baby, tell-a-phone and tell me""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=138\I've\Pit=196\\Spd=138\ your\Pit=175\\Spd=52\ own""=""I've your own""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=175\\Spd=230\Hel\Pit=262\\Spd=92\lo!\Pit=294\\Spd=230\ Hel\Pit=262\\Spd=92\lo!\Pit=294\\Spd=230\ Hel\Pit=262\\Spd=138\lo!""=""Hello! Hello! Hello!""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\This\Pit=110\\Spd=230\ morn\Pit=104\\Spd=230\ing,\Pit=110\\Spd=230\ thro'\Pit=104\\Spd=230\ the\Pit=110\\Spd=230\ 'phone,""=""This morning, thro' the 'phone,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=104\\Spd=230\she\Pit=110\\Spd=230\ said\Pit=131\\Spd=230\ her\Pit=147\\Spd=138\ name\Pit=110\\Spd=138\ was\Pit=110\\Spd=92\ Bess,""=""she said her name was Bess,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=294\\Spd=230\and\Pit=294\\Spd=230\ now\Pit=294\\Spd=230\ I\Pit=294\\Spd=230\ kind\Pit=294\\Spd=230\ of\Pit=294\\Spd=230\ know""=""and now I kind of know""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=294\\Spd=230\where\Pit=294\\Spd=230\ I\Pit=294\\Spd=230\ am\Pit=117\\Spd=52\ at;""=""where I am at;""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\I've\Pit=117\\Spd=230\satt\Pit=110\\Spd=230\is\Pit=117\\Spd=230\fied\Pit=110\\Spd=230\ be\Pit=117\\Spd=230\cause""=""I've satisfied because""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\I've\Pit=117\\Spd=230\ got\Pit=131\\Spd=230\ my\Pit=165\\Spd=138\ babe's\Pit=117\\Spd=138\ ad\Pit=117\\Spd=92\dress,""=""I've got my babe's address,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\here\Pit=98\\Spd=230\ past\Pit=92\\Spd=230\ed\Pit=98\\Spd=230\inn\Pit=92\\Spd=230\ the\Pit=98\\Spd=230\ lin\Pit=92\\Spd=230\ing\Pit=98\\Spd=230\ of\Pit=104\\Spd=230\ my\Pit=110\\Spd=52\ hat.""=""here pasted in the lining of my hat.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\I\Pit=104\\Spd=230\ am\Pit=110\\Spd=230\ might\Pit=104\\Spd=230\y\Pit=110\\Spd=230\ scared,""=""I am mighty scared,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=104\\Spd=230\'cause\Pit=110\\Spd=230\ if\Pit=131\\Spd=230\ the\Pit=147\\Spd=138\ wires\Pit=110\\Spd=138\ get\Pit=110\\Spd=138\ crossed,""=""'cause if the wires get crossed,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\'twill\Pit=110\\Spd=230\septt\Pit=110\\Spd=230\a\Pit=104\\Spd=230\rate\Pit=110\\Spd=230\ me\Pit=147\\Spd=230\ from\Pit=147\\Spd=230\ ma\Pit=147\\Spd=230\bay\Pit=147\\Spd=230\bee\Pit=147\\Spd=55\ mine.""=""'twill separate me from ma baby mine.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=230\Then\Pit=147\\Spd=230\ some\Pit=147\\Spd=230\ oth\Pit=147\\Spd=230\er\Pit=139\\Spd=230\ man\Pit=147\\Spd=230\ will\Pit=165\\Spd=230\ win\Pit=165\\Spd=230\ her,""=""Then some other man will win her,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=230\and\Pit=147\\Spd=230\ my\Pit=131\\Spd=138\ game\Pit=110\\Spd=138\ is\Pit=117\\Spd=138\ lost,""=""and my game is lost,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=110\\Spd=230\and\Pit=98\\Spd=230\ so\Pit=110\\Spd=230\ each\Pit=98\\Spd=230\ day\Pit=110\\Spd=230\ I\Pit=98\\Spd=230\ shout\Pit=110\\Spd=230\ a\Pit=98\\Spd=230\long\Pit=147\\Spd=230\ the\Pit=131\\Spd=52\ line...""=""and so each day I shout along the line...""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\Hel\Pit=294\\Spd=138\lo!\Pit=262\\Spd=230\ Ma\Pit=294\\Spd=138\bay\Pit=262\\Spd=138\by,\Pit=220\\Spd=230\ Hel\Pit=233\\Spd=138\lo!\Pit=220\\Spd=230\ Ma\Pit=233\\Spd=138\ ho\Pit=220\\Spd=138\ney""=""Hello! Ma Baby, Hello! Ma honey""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\Hel\Pit=220\\Spd=138\lo!\Pit=196\\Spd=230\ ma\Pit=220\\Spd=138\ rag\Pit=196\\Spd=138\time\Pit=147\\Spd=230\gaal""=""Hello! ma ragtime gal.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Send\Pit=196\\Spd=138\ me\Pit=185\\Spd=230\ a\Pit=220\\Spd=138\ kiss\Pit=196\\Spd=138\ by\Pit=131\\Spd=230\ wire,""=""Send me a kiss by wire,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=175\\Spd=230\bay\Pit=220\\Spd=138\bee\Pit=262\\Spd=230\ my\Pit=330\\Spd=138\ heart's\Pit=294\\Spd=138\ on\Pit=262\\Spd=69\ fire!""=""Baby my heart's on fire!""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\If\Pit=294\\Spd=138\ you\Pit=262\\Spd=230\ re\Pit=294\\Spd=138\fuse\Pit=262\\Spd=138\ me,""=""If you refuse me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Ho\Pit=233\\Spd=138\ney,\Pit=220\\Spd=230\ you'll\Pit=233\\Spd=138\ lose\Pit=220\\Spd=138\ me,""=""Honey, you'll lose me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\then\Pit=220\\Spd=138\ you'll\Pit=196\\Spd=230\ be\Pit=220\\Spd=138\ left\Pit=196\\Spd=138\ a\Pit=147\\Spd=230\lone;""=""then you'll be left alone;""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=138\Oh,\Pit=165\\Spd=138\bay\Pit=175\\Spd=138\by,\Pit=220\\Spd=230\ Te\Pit=220\\Spd=230\le\Pit=196\\Spd=138\phone\Pit=185\\Spd=138\ and\Pit=220\\Spd=138\ tell\Pit=196\\Spd=138\ me""=""Oh, baby, tell-a-phone and tell me""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=138\I've\Pit=196\\Spd=138\ your\Pit=175\\Spd=138\ own""=""I've your own""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\Hel\Pit=294\\Spd=92\lo!\Pit=262\\Spd=230\ Hel\Pit=294\\Spd=92\lo!\Pit=262\\Spd=230\ Hel\Pit=294\\Spd=138\lo!\Pit=262\\Spd=138\ There.""=""Hello! Hello! Hello! There.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\Hel\Pit=294\\Spd=138\lo!\Pit=262\\Spd=230\ Ma\Pit=294\\Spd=138\bay\Pit=262\\Spd=138\by,\Pit=220\\Spd=230\ Hel\Pit=233\\Spd=138\lo!\Pit=220\\Spd=230\ Ma\Pit=233\\Spd=138\ ho\Pit=220\\Spd=138\ney""=""Hello! Ma Baby, Hello! Ma honey""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\Hel\Pit=220\\Spd=138\lo!\Pit=196\\Spd=230\ ma\Pit=220\\Spd=138\ rag\Pit=196\\Spd=138\time\Pit=147\\Spd=230\gaal""=""Hello! ma ragtime gal.""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Send\Pit=196\\Spd=138\ me\Pit=185\\Spd=230\ a\Pit=220\\Spd=138\ kiss\Pit=196\\Spd=138\ by\Pit=131\\Spd=230\ wire,""=""Send me a kiss by wire,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=175\\Spd=230\bay\Pit=220\\Spd=138\bee\Pit=262\\Spd=230\ my\Pit=330\\Spd=138\ heart's\Pit=294\\Spd=138\ on\Pit=262\\Spd=69\ fire!""=""Baby my heart's on fire!""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=262\\Spd=230\If\Pit=294\\Spd=138\ you\Pit=262\\Spd=230\ re\Pit=294\\Spd=138\fuse\Pit=262\\Spd=138\ me,""=""If you refuse me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=230\Ho\Pit=233\\Spd=138\ney,\Pit=220\\Spd=230\ you'll\Pit=233\\Spd=138\ lose\Pit=220\\Spd=138\ me,""=""Honey, you'll lose me,""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=196\\Spd=230\then\Pit=220\\Spd=138\ you'll\Pit=196\\Spd=230\ be\Pit=220\\Spd=138\ left\Pit=196\\Spd=138\ a\Pit=147\\Spd=230\lone;""=""then you'll be left alone;""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=147\\Spd=138\Oh,\Pit=165\\Spd=138\bay\Pit=175\\Spd=138\by,\Pit=220\\Spd=230\ Te\Pit=220\\Spd=230Spd=230\le\Pit=196\\Spd=138\phone\Pit=185\\Spd=138\ and\Pit=220\\Spd=138\ tell\Pit=196\\Spd=138\ me""=""Oh, baby, tell-a-phonetell-a-phonetell-a-phone and tell me""\"
+Blob.Speak "\Chr=""Monotone""\\Map=""\Pit=220\\Spd=138\I've\Pit=196\\Spd=138\ your\Pit=175\\Spd=52\ own""=""I've your own""\"
+
+[Commands]
+MenuName=MASH Menu
+ACO=Advanced Character Options|~|Advanced Character Options
+
+[CommandScript:ACO]
+AgentControl.PropertySheet.Visible = True
